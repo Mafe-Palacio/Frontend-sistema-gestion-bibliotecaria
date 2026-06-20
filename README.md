@@ -4,6 +4,14 @@ Aplicación web desarrollada con **Angular 20** y **PrimeNG** para la gestión d
 
 Incluye autenticación con dos roles: **administrador** y **consumidor**.
 
+## 🌐 Aplicación publicada
+
+> **URL:** [https://gestion-bibliotecaria-frontend.web.app](https://gestion-bibliotecaria-frontend.web.app)
+
+![Pantalla de login](login_gestion_bibliotecaria.jpeg)
+
+![Pantalla de Dashboard](dashboard_gestion_bibliotecaria.jpeg)
+
 ---
 
 ## Tecnologías
